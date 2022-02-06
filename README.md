@@ -32,5 +32,4 @@
 
 
 <h3>Pour m'aider merci a tout ceux qui le feront ;)</h3>
- <a href="https://www.buymeacoffee.com/suceleste"><img witdh="210" height="40" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="buymeacoffee"> 
  <img align="center" width="100" src="https://media.giphy.com/media/iJ6tLL77d1j4PgKJhe/giphy.gif"></a>
