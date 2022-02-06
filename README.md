@@ -26,7 +26,11 @@
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   
-   
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suceleste&show_icons=true&locale=en" alt="suceleste" /></p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suceleste" alt="suceleste" /></a> </p>
+
+
+<h3>Pour m'aider merci a tout ceux qui le feront ;)</h3>
+ <a href="https://www.buymeacoffee.com/suceleste"><img witdh="210" height="40" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="buymeacoffee"> 
+ <img align="center" width="100" src="https://media.giphy.com/media/iJ6tLL77d1j4PgKJhe/giphy.gif"></a>
