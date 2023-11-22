@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenue <img width="50" src="https://media.giphy.com/media/RhMmGFlRGT1UtgGTaD/giphy.gif">Je suis Suceleste</h1>
-<h3 align="center">Je suis un développeur débutant qui partage mes projet pour progresser ici <img width="50" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"></h3>
+<h3 align="center">Je suis un étudiant et développeur qui partage mes projet ici <img width="50" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suceleste&label=Profile%20views&color=0e75b6&style=flat" alt="suceleste" /> </p>
 
