@@ -1,19 +1,16 @@
 <!--
-✨ README.md - Style Pro & Centré par Suceleste ✨
-Ce document est optimisé pour un affichage centré et professionnel sur GitHub.
+✨ README.md - Version Finale, Centrée et Optimisée ✨
+Ceci est votre README.md prêt à l'emploi.
 -->
 <div align="center">
 <a href="https://www.google.com/search?q=https://github.com/suceleste">
-<!-- Le GIF d'accueil est conservé mais redimensionné et encadré -->
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="60" alt="GIF de bienvenue"/>
+<!-- GIF de bienvenue conservé -->
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="60" alt=""/>
 </a>
 <h1 align="center">Salut ! Je suis Suceleste 👋</h1>
-<!-- Nouvelle Accroche Professionnelle intégrant la polyvalence et l'autonomie -->
+<!-- Slogan nettoyé pour plus d'impact -->
 <h3 align="center">
-Développeur Autonome & Polyvalent | Créateur de solutions numériques et prêt à relever de nouveaux défis.
-
-
-<span style="font-size: 0.9em; opacity: 0.8;">(Étudiant en 2e année d'informatique en transition vers l'autodidaxie)</span>
+Développeur Autonome & Polyvalent | Créateur de solutions numériques passionné.
 </h3>
 </div>
 <p align="center">
@@ -42,15 +39,14 @@ TrophyCalc.com
 L'outil essentiel pour les chasseurs de trophées Steam !
 </p>
 <span style="color: #007ACC; font-weight: bold; font-size: 0.8em; margin-top: 5px; display: block;">
-🚀 Lancement très prochainement ! Cliquez pour découvrir.
+🚀 Lancement très prochainement !
 </span>
 </div>
 </a>
 </div>
 <div align="center">
 <h2>🛠️ Ma Stack Technique</h2>
-<p>Mon kit d'outils, où l'adaptation et l'apprentissage sont mes principales forces.</p>
-<!-- Les catégories ont été conservées et les icônes sont plus grandes -->
+<p>Mon kit d'outils, où l'adaptation est ma principale force.</p>
 <h3>💻 Core & Backend</h3>
 <p>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/> </a>
@@ -77,32 +73,33 @@ L'outil essentiel pour les chasseurs de trophées Steam !
 <!-- Cartes de Stats mises à jour en français (locale=fr) et en thème sombre (dark) -->
 <img
 src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsuceleste%26show_icons%3Dtrue%26locale%3Dfr%26theme%3Ddark%26hide_border%3Dtrue"
-alt="Statistiques GitHub"
+alt=""
 style="width: 100%; max-width: 450px; margin-bottom: 15px;"
 />
 <!-- Trophées GitHub -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img
 src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dsuceleste%26theme%3Ddark"
-alt="Trophées GitHub"
+alt=""
 style="width: 100%; max-width: 450px;"
 />
 </a>
 </div>
 <div align="center">
-<h2>🤝 Connectons-nous !</h2>
+<h2>🤝 Contact & Soutien</h2>
 <p>Toujours disponible pour discuter de la tech, de collaborations ou de vos idées !</p>
 <!-- Lien Buy Me a Coffee pour le soutien -->
 <a href="https://www.google.com/search?q=https://buymeacoffee.com/suceleste" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Aide%2520moi%2520ici-FFDD00%3Fstyle%3Dfor-the-badge%26logo%3Dbuy-me-a-coffee%26logoColor%3Dblack" alt="Buy Me a Coffee Badge"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Aide%2520moi%2520ici-FFDD00%3Fstyle%3Dfor-the-badge%26logo%3Dbuy-me-a-coffee%26logoColor%3Dblack" alt="Badge Buy Me a Coffee"/>
 </a>
 &nbsp;
-<!-- Placeholder LinkedIn (à mettre à jour par vous) -->
+<!-- Lien LinkedIn (à remplacer par le vôtre si nécessaire) -->
 <a href="https://www.google.com/search?q=https://linkedin.com/in/votre-profil-linkedin" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="Badge LinkedIn"/>
 </a>
 <p style="margin-top: 20px;">
 Votre soutien est apprécié pour m'aider à développer mes projets !
 </p>
-<img width="50" src="https://media.giphy.com/media/iJ6tLL77d1j4PgKJhe/giphy.gif" alt="Support GIF"/>
+<!-- GIF de soutien -->
+<img width="50" src="https://media.giphy.com/media/iJ6tLL77d1j4PgKJhe/giphy.gif" alt=""/>
 </div>
