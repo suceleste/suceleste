@@ -16,7 +16,7 @@ Développeur Autonome & Polyvalent | Créateur de solutions numériques passionn
 
 <p align="center">
 <!-- Badge de Vues du Profil (LIEN IMAGE DIRECT CORRIGÉ) -->
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dsuceleste%26label%3DVues%2520du%2520profil%26color%3D2196F3%26style%3Dflat-square" alt="Compteur de vues du profil Suceleste" />
+<img src="https://komarev.com/ghpvc/%3Fusername%3Dsuceleste%26label%3DVues%2520du%2520profil%26color%3D2196F3%26style%3Dflat-square" alt="Compteur de vues du profil Suceleste" />
 </p>
 
 <div align="center">
@@ -25,7 +25,7 @@ Développeur Autonome & Polyvalent | Créateur de solutions numériques passionn
 
 <!-- Bannière du Projet - LIEN DIRECT TrophyCalc.com CORRIGÉ -->
 
-<a href="https://www.google.com/search?q=https://TrophyCalc.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+<a href="https://TrophyCalc.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
 <div style="
 display: inline-block;
 padding: 15px 30px;
@@ -83,7 +83,7 @@ L'outil essentiel pour les chasseurs de trophées Steam !
 <p align="center">
 <!-- Cartes de Stats (LIEN IMAGE DIRECT CORRIGÉ) -->
 <img
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsuceleste%26show_icons%3Dtrue%26locale%3Dfr%26theme%3Ddark%26hide_border%3Dtrue"
+src="https://github-readme-stats.vercel.app/api%3Fusername%3Dsuceleste%26show_icons%3Dtrue%26locale%3Dfr%26theme%3Ddark%26hide_border%3Dtrue"
 alt="Carte des statistiques GitHub"
 width="450"
 />
@@ -93,7 +93,7 @@ width="450"
 <!-- Trophées GitHub (LIEN IMAGE DIRECT CORRIGÉ) -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img
-src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dsuceleste%26theme%3Ddark"
+src="https://github-profile-trophy.vercel.app/%3Fusername%3Dsuceleste%26theme%3Ddark"
 alt="Trophées du profil GitHub"
 width="450"
 />
@@ -105,13 +105,13 @@ width="450"
 
 <p align="center">
 <!-- LIEN DIRECT Buy Me a Coffee (CORRIGÉ) -->
-<a href="https://www.google.com/search?q=https://buymeacoffee.com/suceleste" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Aide%2520moi%2520ici-FFDD00%3Fstyle%3Dfor-the-badge%26logo%3Dbuy-me-a-coffee%26logoColor%3Dblack" alt="Badge Buy Me a Coffee"/>
+<a href="https://buymeacoffee.com/suceleste" target="_blank">
+<img src='https://img.shields.io/badge/Aide%2520moi%2520ici-FFDD00%3Fstyle%3Dfor-the-badge%26logo%3Dbuy-me-a-coffee%26logoColor%3Dblack" alt="Badge Buy Me a Coffee"/>
 </a>
 &nbsp;
 <!-- LIEN DIRECT LinkedIn (CORRIGÉ) -->
-<a href="https://www.google.com/search?q=https://linkedin.com/in/votre-profil-linkedin" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="Badge LinkedIn"/>
+<a href="https://linkedin.com/in/votre-profil-linkedin" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="Badge LinkedIn"/>
 </a>
 </p>
 
