@@ -12,7 +12,7 @@ Développeur Autonome & Polyvalent | Créateur de solutions numériques passionn
 </h3>
 <p align="center">
 <!-- Badge de Vues du Profil -->
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dsuceleste%26label%3DVues%2520du%2520profil%26color%3D2196F3%26style%3Dflat-square" alt="[Compteur de vues du profil Suceleste]" />
+<img src="https://komarev.com/ghpvc/%3Fusername%3Dsuceleste%26label%3DVues%2520du%2520profil%26color%3D2196F3%26style%3Dflat-square" alt="[Compteur de vues du profil Suceleste]" />
 </p>
 <div align="center">
 <h2>🏆 Projet Phare : TrophyCalc.com</h2>
