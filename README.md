@@ -92,11 +92,7 @@ width="450"
 <p align="center">
 <!-- Trophées GitHub (LIEN IMAGE DIRECT CORRIGÉ) -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img
-src="https://github-profile-trophy.vercel.app/%3Fusername%3Dsuceleste%26theme%3Ddark"
-alt="Trophées du profil GitHub"
-width="450"
-/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=suceleste&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </a>
 </p>
 
