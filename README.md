@@ -1,121 +1,94 @@
-<!--
-✨ README.md - Version DÉFINITIVE (Liens Directs Garanti) ✨
-Tous les liens et images sont insérés via des chemins directs (HTTPS) pour garantir un affichage et un clic corrects.
--->
+>// Profil en cours de compilation...
 
-<p align="center">
-<!-- GIF de bienvenue -->
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="60" alt="Image d'une personne qui salue"/>
+---
+
+### 🚀 Current Focus
+
+<table>
+  <tr>
+    <td valign="top">
+      <a href="URL_DE_TON_PROJET_SI_PUBLIC" target="_blank">
+        <img src="https://img.shields.io/badge/PROJECT-TrophyCalc-8A2BE2?style=for-the-badge" alt="Projet TrophyCalc"/>
+      </a>
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/STATUS-Pre--Release-orange?style=for-the-badge" alt="Statut: Pre-Release"/>
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/REPO-Private-red?style=for-the-badge" alt="Repo: Privé"/>
+    </td>
+  </tr>
+</table>
+
+> "L'outil pour les chasseurs de trophées Steam. Parce qu'il n'y a pas que les joueurs PlayStation qui peuvent chasser."
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <a href="https://learn.microsoft.com/fr-fr/cpp/" target="_blank">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  </a>
+  <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  </a>
+  <a href="https://fr.wikipedia.org/wiki/C_(langage)" target="_blank">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  </a>
+  
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  </a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </a>
+  
+  <a href="https://nodejs.org/fr" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  </a>
+  <a href="https://www.php.net/manual/fr/intro-whatis.php" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  </a>
+  
+  <a href="https://www.mysql.com/fr/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </a>
+  <a href="https://www.mongodb.com/fr-fr" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </a>
 </p>
 
-<h1 align="center">Salut ! Je suis Suceleste 👋</h1>
+---
 
-<h3 align="center">
-Développeur Autonome & Polyvalent | Créateur de solutions numériques passionné.
-</h3>
+### 💻 Build Environment
 
-<p align="center">
-<!-- Badge de Vues du Profil (LIEN IMAGE DIRECT CORRIGÉ) -->
-<img src="https://komarev.com/ghpvc/%3Fusername%3Dsuceleste%26label%3DVues%2520du%2520profil%26color%3D2196F3%26style%3Dflat-square" alt="Compteur de vues du profil Suceleste" />
-</p>
+* **CPU:** AMD Ryzen 5 5600X
+* **GPU:** NVIDIA RTX 4060
+* **RAM:** 16GB DDR4
 
-<div align="center">
+---
 
-<h2>🏆 Projet Phare : TrophyCalc.com</h2>
-
-<!-- Bannière du Projet - LIEN DIRECT TrophyCalc.com CORRIGÉ -->
-
-<a href="https://TrophyCalc.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-<div style="
-display: inline-block;
-padding: 15px 30px;
-margin: 10px 0;
-border: 2px solid #007ACC;
-border-radius: 12px;
-background-color: #0d1117;
-box-shadow: 0 4px 15px rgba(0, 119, 204, 0.4);
-transition: all 0.3s ease;
-">
-<h3 style="color: #FFFFFF; margin: 0; display: flex; align-items: center; gap: 10px;">
-<span style="font-size: 2em;">🏆</span>
-TrophyCalc.com
-</h3>
-<p style="color: #B0B0B0; margin: 5px 0 0 0;">
-L'outil essentiel pour les chasseurs de trophées Steam !
-</p>
-<span style="color: #007ACC; font-weight: bold; font-size: 0.8em; margin-top: 5px; display: block;">
-🚀 Lancement très prochainement !
-</span>
-</div>
-</a>
-
-</div>
-
-<h2 align="center">🛠️ Ma Stack Technique</h2>
-<p align="center">Mon kit d'outils de base, centré sur la polyvalence et les systèmes.</p>
-
-<h3 align="center">💻 Core & Backend</h3>
-<p align="center">
-<!-- LIEN DIRECT PYTHON -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Icône Python" width="55" height="55"/> </a>
-<!-- LIEN DIRECT JAVASCRIPT -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Icône JavaScript" width="55" height="55"/> </a>
-</p>
-
-<h3 align="center">🌐 Frontend & Web</h3>
-<p align="center">
-<!-- LIEN DIRECT HTML5 -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Icône HTML5" width="55" height="55"/> </a>
-<!-- LIEN DIRECT CSS3 -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Icône CSS3" width="55" height="55"/> </a>
-</p>
-
-<h3 align="center">⚙️ Systèmes & Microcontrôleurs</h3>
-<p align="center">
-<!-- LIEN DIRECT ARDUINO -->
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Icône Arduino" width="55" height="55"/> </a>
-<!-- LIEN DIRECT LINUX -->
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Icône Linux" width="55" height="55"/> </a>
-</p>
-
-<h2 align="center">📊 Mon Activité GitHub</h2>
+### 📊 Stats & Support
 
 <p align="center">
-<!-- Cartes de Stats (LIEN IMAGE DIRECT CORRIGÉ) -->
-<img
-src="https://github-readme-stats.vercel.app/api%3Fusername%3Dsuceleste%26show_icons%3Dtrue%26locale%3Dfr%26theme%3Ddark%26hide_border%3Dtrue"
-alt="Carte des statistiques GitHub"
-width="450"
-/>
+  <img src="https://github-profile-trophy.vercel.app/?username=suceleste" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-<!-- Trophées GitHub (LIEN IMAGE DIRECT CORRIGÉ) -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-[![trophy](https://github-profile-trophy.vercel.app/?username=suceleste)](https://github.com/ryo-ma/github-profile-trophy)
-</a>
-</p>
-
-<h2 align="center">🤝 Connectons-nous !</h2>
-<p align="center">Toujours disponible pour discuter de la tech, de collaborations ou de vos idées !</p>
-
-<p align="center">
-<!-- LIEN DIRECT Buy Me a Coffee (CORRIGÉ) -->
-<a href="https://buymeacoffee.com/suceleste" target="_blank">
-<img src='https://img.shields.io/badge/Aide%2520moi%2520ici-FFDD00%3Fstyle%3Dfor-the-badge%26logo%3Dbuy-me-a-coffee%26logoColor%3Dblack" alt="Badge Buy Me a Coffee"/>
-</a>
-&nbsp;
-<!-- LIEN DIRECT LinkedIn (CORRIGÉ) -->
-<a href="https://linkedin.com/in/votre-profil-linkedin" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="Badge LinkedIn"/>
-</a>
-</p>
-
-<p align="center" style="margin-top: 20px;">
-Votre soutien est apprécié pour m'aider à développer mes projets !
-</p>
-
-<p align="center">
-<!-- GIF de soutien -->
-<img width="50" src="https://media.giphy.com/media/iJ6tLL77d1j4PgKJhe/giphy.gif" alt="Image d'un cœur qui bat"/>
+  <a href="https://www.buymeacoffee.com/suceleste" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+  </a>
 </p>
