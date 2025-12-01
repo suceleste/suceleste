@@ -32,27 +32,6 @@ J'aide les entreprises et les agences à **automatiser** leurs processus et à *
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 🏆 Projets Phares / Études de Cas
-
-### 📍 Intégration Google Action Center (Reserve with Google)
-*Déploiement de l'architecture de réservation pour un établissement (90+ services).*
-* **Challenge :** Structurer des données non standardisées et valider les flux stricts de Google.
-* **Solution :** Création de scripts de mapping JSON (Entity/Service/Action), gestion des quotas Sandbox via Mocking de données, automatisation des uploads SFTP.
-* **Stack :** `Python` `JSON` `Google API` `SFTP`
-
-### 🤖 Bot d'Automatisation & Scraping
-*Développement d'outils internes pour l'extraction de données.*
-* **Objectif :** Automatiser la récupération de leads et de données concurrentielles.
-* **Stack :** `Python` `Selenium` `Pandas` `Anti-Captcha`
-
-### ⚡ API Plaques d'Immatriculation (SIV)
-*Intégration e-commerce pour la vente de pièces auto.*
-* **Objectif :** Filtrer le catalogue produit (WooCommerce) via une recherche par plaque.
-* **Stack :** `WordPress` `PHP` `REST API`
-
----
 
 ## 📈 GitHub Stats
 
