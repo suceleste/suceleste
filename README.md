@@ -56,8 +56,12 @@ J'aide les entreprises et les agences à **automatiser** leurs processus et à *
 
 ## 📈 GitHub Stats
 
-![Sullyvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=suceleste&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suceleste&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suceleste&show_icons=true&theme=radical&count_private=true" alt="Sullyvan Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suceleste&layout=compact&theme=radical&langs_count=8" alt="Sullyvan Languages" />
+</p>
 
 ---
 
