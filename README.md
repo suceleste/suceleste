@@ -1,91 +1,66 @@
->// Profil en cours de compilation...
+# Salut, c'est Sullyvan ! 👋
+### Développeur Fullstack & Expert Automatisation (Python / Laravel)
+
+[![Malt Profile](https://img.shields.io/badge/Disponible_sur-MALT-ff5c5c?style=for-the-badge&logo=malt)](TON_LIEN_MALT_ICI)
+[![LinkedIn](https://img.shields.io/badge/Connectons_nous-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TON_LIEN_LINKEDIN_ICI)
 
 ---
 
-### 🚀 Current Focus
+## 🚀 À propos
+Je ne suis pas seulement un codeur, je suis un **résolveur de problèmes techniques**.
+J'aide les entreprises et les agences à **automatiser** leurs processus et à **débloquer** des intégrations API complexes.
 
-<table>
-  <tr>
-    <td valign="top">
-      <a href="URL_DE_TON_PROJET_SI_PUBLIC" target="_blank">
-        <img src="https://img.shields.io/badge/PROJECT-TrophyCalc-8A2BE2?style=for-the-badge" alt="Projet TrophyCalc"/>
-      </a>
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/STATUS-Pre--Release-orange?style=for-the-badge" alt="Statut: Pre-Release"/>
-    </td>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/REPO-Private-red?style=for-the-badge" alt="Repo: Privé"/>
-    </td>
-  </tr>
-</table>
-
-> "L'outil pour les chasseurs de trophées Steam. Parce qu'il n'y a pas que les joueurs PlayStation qui peuvent chasser."
+* 🔭 **Je travaille actuellement sur** : L'architecture de flux de données pour le **Google Action Center** (Reserve with Google).
+* 💬 **Demandez-moi de l'aide sur** : Le Scraping avancé, l'automatisation de tâches (Bots), les API REST et l'architecture Backend.
+* ⚡ **Ma philosophie** : Code propre, architectures scalables (Docker) et zéro dette technique.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Stack Technique
 
-<p align="left">
-  <a href="https://learn.microsoft.com/fr-fr/cpp/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  </a>
-  <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  </a>
-  <a href="https://fr.wikipedia.org/wiki/C_(langage)" target="_blank">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  </a>
-  
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
-  </a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  
-  <a href="https://nodejs.org/fr" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  </a>
-  <a href="https://www.php.net/manual/fr/intro-whatis.php" target="_blank">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  </a>
-  
-  <a href="https://www.mysql.com/fr/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </a>
-  <a href="https://www.mongodb.com/fr-fr" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </a>
-</p>
+### **Automatisation & Data (Mon cœur d'expertise)**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### **Développement Web Fullstack**
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 💻 Build Environment
+## 🏆 Projets Phares / Études de Cas
 
-* **CPU:** AMD Ryzen 5 5600X
-* **GPU:** NVIDIA RTX 4060
-* **RAM:** 16GB DDR4
+### 📍 Intégration Google Action Center (Reserve with Google)
+*Déploiement de l'architecture de réservation pour un établissement (90+ services).*
+* **Challenge :** Structurer des données non standardisées et valider les flux stricts de Google.
+* **Solution :** Création de scripts de mapping JSON (Entity/Service/Action), gestion des quotas Sandbox via Mocking de données, automatisation des uploads SFTP.
+* **Stack :** `Python` `JSON` `Google API` `SFTP`
+
+### 🤖 Bot d'Automatisation & Scraping
+*Développement d'outils internes pour l'extraction de données.*
+* **Objectif :** Automatiser la récupération de leads et de données concurrentielles.
+* **Stack :** `Python` `Selenium` `Pandas` `Anti-Captcha`
+
+### ⚡ API Plaques d'Immatriculation (SIV)
+*Intégration e-commerce pour la vente de pièces auto.*
+* **Objectif :** Filtrer le catalogue produit (WooCommerce) via une recherche par plaque.
+* **Stack :** `WordPress` `PHP` `REST API`
 
 ---
 
-### 📊 Stats & Support
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suceleste" alt="GitHub Trophies" />
-</p>
+![Sullyvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=suceleste&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suceleste&layout=compact&theme=radical)
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/suceleste" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
-  </a>
-</p>
+---
+
+### 📬 Me Contacter
+Vous avez un projet complexe ou une API qui résiste ?
+👉 **[Engagez-moi sur Malt](https://www.malt.fr/profile/sullyvandescamps)**
