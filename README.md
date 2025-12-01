@@ -56,7 +56,7 @@ J'aide les entreprises et les agences à **automatiser** leurs processus et à *
 
 ## 📈 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suceleste)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-zeta-livid-80.vercel.app/api?username=suceleste)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
