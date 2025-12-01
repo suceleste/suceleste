@@ -38,16 +38,14 @@ Fort de **9 années de développement**, j'interviens là où les CMS classiques
 
 ## 🏆 Projets Phares / Études de Cas
 
-### 📍 Intégration Google Action Center (Reserve with Google)
-*Architecture complète de réservation pour un établissement (90+ services).*
-* **Challenge :** Structurer des données non standardisées et valider les flux stricts de Google (Entity, Service, Action).
-* **Réalisation :** Conception des scripts de mapping JSON, Mocking de données pour validation Sandbox, et automatisation SFTP.
-* **Stack :** `Python` `JSON` `Google API` `Data Engineering`
-
-### 🤖 Automatisation & Scraping Avancé
-*Développement de bots et d'outils internes.*
-* **Expertise :** Contournement de protections, gestion de sessions, OCR et traitement de données de masse.
-* **Stack :** `Python` `Selenium` `Pandas` `API REST`
+### 🎮 TrophyCalc | Steam Data Analytics (Projet Perso)
+*Conception d'un moteur d'analyse de données pour l'écosystème Steam.*
+* **Le besoin :** Offrir aux "chasseurs de trophées" (Achievement Hunters) un outil précis pour tracker leur progression, là où l'interface native Steam est limitée.
+* **Architecture & Tech :**
+    * Développement d'un **Backend Python** capable d'interroger l'API Valve (Steam Web API) en temps réel.
+    * Gestion complexe des **quotas d'API** (Rate Limiting) et normalisation des données JSON brutes.
+    * Algorithme de calcul de rareté et de scoring personnalisé.
+* **Stack :** `Python` `Steam Web API` `Data Engineering` `JSON`
 
 ---
 
