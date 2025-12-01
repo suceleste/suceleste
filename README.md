@@ -53,6 +53,9 @@ Fort de **9 années de développement**, j'interviens là où les CMS classiques
         * Consommation de l'API Backend via Axios.
 * **Stack :** `Laravel` `Vue.js` `MySQL` `REST API` `Docker`
 
+[![Backend](https://img.shields.io/badge/Code-Backend_(Laravel)-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/suceleste/TrophyCalc-API)
+[![Frontend](https://img.shields.io/badge/Code-Frontend_(Vue.js)-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://github.com/suceleste/TrophyCalc-Frontend)
+
 ---
 
 ## 📈 GitHub Stats
