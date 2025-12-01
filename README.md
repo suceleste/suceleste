@@ -39,13 +39,19 @@ Fort de **9 années de développement**, j'interviens là où les CMS classiques
 ## 🏆 Projets Phares / Études de Cas
 
 ### 🎮 TrophyCalc | Steam Data Analytics (Projet Perso)
-*Conception d'un moteur d'analyse de données pour l'écosystème Steam.*
-* **Le besoin :** Offrir aux "chasseurs de trophées" (Achievement Hunters) un outil précis pour tracker leur progression, là où l'interface native Steam est limitée.
-* **Architecture & Tech :**
-    * Développement d'un **Backend Python** capable d'interroger l'API Valve (Steam Web API) en temps réel.
-    * Gestion complexe des **quotas d'API** (Rate Limiting) et normalisation des données JSON brutes.
-    * Algorithme de calcul de rareté et de scoring personnalisé.
-* **Stack :** `Python` `Steam Web API` `Data Engineering` `JSON`
+*Plateforme d'analyse de progression et de scoring pour l'écosystème Steam.*
+
+* **Le concept :** Dashboard interactif permettant aux joueurs de tracker leurs succès, calculer un score de rareté et se classer.
+* **Architecture Technique (Fullstack) :**
+    * **Backend (Laravel) :** Développement d'une **API RESTful** robuste.
+        * Intégration de l'authentification **OpenID** (Steam Login).
+        * Utilisation des **Jobs & Queues** pour traiter les gros volumes de données (API Valve) en arrière-plan sans ralentir l'utilisateur.
+        * Algorithme de scoring implémenté via des services dédiés.
+    * **Frontend (Vue.js) :**
+        * **SPA (Single Page Application)** pour une expérience utilisateur fluide.
+        * Visualisation de données dynamiques et composants réactifs.
+        * Consommation de l'API Backend via Axios.
+* **Stack :** `Laravel` `Vue.js` `MySQL` `REST API` `Docker`
 
 ---
 
