@@ -3,6 +3,7 @@
 
 [![Malt Profile](https://img.shields.io/badge/Disponible_sur-MALT-ff5c5c?style=for-the-badge&logo=malt)](https://www.malt.fr/profile/sullyvandescamps)
 [![LinkedIn](https://img.shields.io/badge/Connectons_nous-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TON_LIEN_LINKEDIN_ICI)
+[![SullyDesc — Codeur.com](https://api.codeur.com/widgets/badge.svg?k=6D-0oYzEC51C1V9X)](https://www.codeur.com/-sullydesc)
 
 ---
 
